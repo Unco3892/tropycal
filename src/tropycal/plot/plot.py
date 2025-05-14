@@ -450,7 +450,7 @@ class Plot:
 
     def plot_credit(self):
 
-        return "Plot generated using troPYcal"
+        return ""
 
     def add_credit(self, text):
 
